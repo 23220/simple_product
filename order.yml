@@ -17,5 +17,5 @@ jpa:
 
 eureka:
   client:
-    service-url:
+    service-url: 
       defaultZone: http://localhost:8761/eureka/
